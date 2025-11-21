@@ -1,0 +1,17 @@
+[
+    { "id": 1, "titulo": "Inception", "precio": 3000},
+    { "id": 2, "titulo": "Interstellar", "precio": 3000 },
+    { "id": 3, "titulo": "The Dark Knight", "precio": 3000 },
+    { "id": 4, "titulo": "Tenet", "precio": 3000 },
+    { "id": 5, "titulo": "Demon Salyer", "precio": 3000 },
+    { "id": 6, "titulo": "The Notebook", "precio": 3000 },
+    { "id": 7, "titulo": "Top Gun: Maverick", "precio": 3000 },
+    { "id": 8, "titulo": "The Odessy", "precio": 3000 },
+    { "id": 9, "titulo": "Jujustu Kaisen", "precio": 3000 },
+    { "id": 10, "titulo": "Avatar: The Way of Water", "precio": 3000 },
+    { "id": 11, "titulo": "Puss in Boots: The Last Wish", "precio": 3000 },
+    { "id": 12, "titulo": "Black Adam", "precio": 3000 },
+    { "id": 13, "titulo": "Superman", "precio": 3000 }
+
+  ]
+  
